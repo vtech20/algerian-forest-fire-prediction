@@ -1,0 +1,2 @@
+# algerian-forest-fire-prediction
+Forest fires are a major concern all over the world; each year, millions of hectares are lost. Algeria is one of the countries afflicted by this phenomena, which occurs primarily during the summer time. Forest fire detection and forecasting become critical issues for reducing the disaster's damage. Exploration of new fire detection and forecast systems as alternatives to existing ones becomes a necessity. The goal is to predict whether or not the fire will break out based on weather data.
